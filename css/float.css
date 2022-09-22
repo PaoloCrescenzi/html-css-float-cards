@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0
+}
+
+.container{
+    width: 920px;
+    margin: 0 auto
+}
+
+h1{
+    color: fuchsia;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.text-h{
+    text-align: center;
+    margin-top: 4rem;
+}
