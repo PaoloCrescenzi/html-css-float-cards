@@ -4,6 +4,10 @@
 	padding: 0
 }
 
+img{
+    width: 125px;
+}
+
 .container{
     width: 920px;
     margin: 0 auto
@@ -17,5 +21,46 @@ h1{
 
 .text-h{
     text-align: center;
+    margin-top: 4rem;
+}
+
+
+.cards{
     margin-top: 3rem;
+    
+}
+
+.cards .c{
+    width: 33.3%;
+
+}
+
+h3{
+    float: right;
+}
+.card-1{
+    float: left;
+    background-color: rgb(7, 0, 112);
+    padding: .5rem;
+    color: white;
+}
+
+.card-2{
+    float: left;
+}
+
+.card-3{
+    float: left;
+}
+
+.card-4{
+    float: left;
+}
+
+.card-5{
+    float: left;
+}
+
+.card-6{
+    float: left;
 }
