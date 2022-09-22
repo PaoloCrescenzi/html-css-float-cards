@@ -6,6 +6,7 @@
 
 img{
     width: 100px;
+    float: left;
 }
 
 .container{
@@ -38,15 +39,22 @@ h1{
 
 h3{
     display: inline-block;
+    margin-left: .6rem;
+    margin-top: .8rem;
 }
 
+a{
+    margin-left: .6rem;
+    color: lightblue;
+
+}
 
 
 
 .card-1{
     float: left;
     background-color: rgb(3, 0, 41);
-    
+    margin left: .5rem;
     color: white;
 }
 
@@ -83,4 +91,8 @@ h3{
     background-color: rgb(3, 0, 41);
     
     color: white;
+}
+
+.role{
+    margin-left: 6px;
 }
