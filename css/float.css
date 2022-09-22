@@ -33,6 +33,7 @@ h1{
 .cards .c{
     width: 30%;
     margin: .2rem;
+    
 }
 
 h3{
@@ -44,42 +45,42 @@ h3{
 
 .card-1{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
 
 .card-2{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
 
 .card-3{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
 
 .card-4{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
 
 .card-5{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
 
 .card-6{
     float: left;
-    background-color: rgb(7, 0, 112);
+    background-color: rgb(3, 0, 41);
     
     color: white;
 }
