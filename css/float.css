@@ -31,51 +31,55 @@ h1{
 }
 
 .cards .c{
-    width: 33.3%;
-
+    width: 30%;
+    margin: .2rem;
 }
 
 h3{
-    float: right;
+    display: inline-block;
 }
+
+
+
+
 .card-1{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
 
 .card-2{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
 
 .card-3{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
 
 .card-4{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
 
 .card-5{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
 
 .card-6{
     float: left;
     background-color: rgb(7, 0, 112);
-    padding: .5rem;
+    
     color: white;
 }
