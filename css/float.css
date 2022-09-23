@@ -2,6 +2,11 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0
+
+}
+.container{
+    width: 920px;
+    margin: 0 auto
 }
 
 body{
@@ -13,10 +18,7 @@ img{
     float: left;
 }
 
-.container{
-    width: 920px;
-    margin: 0 auto
-}
+
 
 h1{
     color: fuchsia;
@@ -98,5 +100,7 @@ a{
 }
 
 .role{
-    margin-left: 6px;
+    margin-left: .6rem;
+    display: inline-block;
+    m
 }
